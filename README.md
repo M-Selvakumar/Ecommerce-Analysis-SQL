@@ -13,8 +13,7 @@ The project covers:
 ---
 
 ## 🛠️ Tools & Technologies  
-- **SQL (MySQL Workbench / XAMPP / PostgreSQL)**  
-- **Database Management System (DBMS)**
+- **SQL (MySQL Workbench)**  
 
 ---
 
